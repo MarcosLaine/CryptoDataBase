@@ -15,7 +15,7 @@ CryptoDataCollector is a Python-based project that collects historical OHLC (Ope
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/MarcosLaine/CryptoDataCollector.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -23,7 +23,7 @@ CryptoDataCollector is a Python-based project that collects historical OHLC (Ope
    ```
 3. Install the required dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install pandas requests
    ```
 
 ## Usage

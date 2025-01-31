@@ -1,7 +1,6 @@
 import requests
 import pandas as pd
 import os
-from fpdf import FPDF
 
 headers = {"x-cg-demo-api-key": os.getenv("API_KEY")}
 
